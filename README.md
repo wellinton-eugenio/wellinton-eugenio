@@ -2,15 +2,15 @@
 
 - 🌱 Tenho conhecimento e sempre me atulizo em JavaScript, React, HTML, CSS, Typescript, express, node, phyton e django.
 - 💞️ Busco trabalhar e colaborar em projetos que ajudem a sociedade.
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wellinton-eugenio&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wellinton-eugenio&theme=monokai)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wellinton-eugenioa&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wellinton-eugenio&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wellinton-eugenio&theme=monokai&utcOffset=-3)
 <div align="center" gap='1px'>
   <a href="https://github.com/wellinton-eugenio">
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=wellinton-eugenio&hide=contribs,prs&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellinton-eugenio&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wellinton-eugenio&theme=monokai"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wellinton-eugenio&theme=monokai"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wellinton-eugenio&theme=monokai&utcOffset=-3"/>  
+
+  
 </div>
 
 
